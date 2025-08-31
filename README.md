@@ -1,8 +1,4 @@
- Hi there 👋, I'm Harsh Gupta
-
-![Profile Banner](https://path-to-your-banner-image.png) <!-- Optional -->
-
-I'm a passionate Engineering Student from JSS University, Noida, with a strong interest in Full Stack Web Development, and DSA. I love building projects that make an impact and continuously learning cutting-edge technologies.  
+Hii there,I am a passionate Engineering Student from JSS University, Noida, with a strong interest in Full Stack Web Development, and DSA. I love building projects that make an impact and continuously learning cutting-edge technologies.  
 
 
 🔭 I’m currently working on
