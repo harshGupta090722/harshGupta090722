@@ -23,7 +23,7 @@ Hii there,I am a hardworking engineer .I love to create problems and even love m
 
 📂 My Top Projects
 
-- Second-Brain:Full Stack Course where users can share and save links.
+- Second-Brain:A place where users can share their intutive thoughts.
 - Mentora:A full-stack Course-selling platform with separate admin/user roles.
 
 
